@@ -5,7 +5,9 @@ Snake for Python
 
 Install Python
 
-Open CMD and run command "python snake_game.py"
+Open CMD and cd to where you downloaded it
+
+Run command "python snake_game.py"
 
 Play Snake
 
