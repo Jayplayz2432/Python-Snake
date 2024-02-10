@@ -1,2 +1,13 @@
 # Python-Snake
 Snake for Python
+
+
+
+Install Python
+
+Open CMD and run command "python snake_game.py"
+
+Play Snake
+
+Write a comment and I will update the game!
+:)
